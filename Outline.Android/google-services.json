@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "449969494546",
+    "project_id": "outline-a825f",
+    "storage_bucket": "outline-a825f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449969494546:android:44bab35351142b8af456cb",
+        "android_client_info": {
+          "package_name": "com.Itec21.outline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449969494546-brdhbn5ltmc9tpkt8mtsp9gussslo321.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwnXuCKGv9BA2nKp3FxcZYvkQf6AbrhOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449969494546-brdhbn5ltmc9tpkt8mtsp9gussslo321.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

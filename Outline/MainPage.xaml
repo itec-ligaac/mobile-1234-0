@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Outline.MainPage">
+
+    <StackLayout>
+
+        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+            <Label Text="Welcome to Outline!" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+        <Label Text="Help us putting more NGOs get in touch faster with their clients!" FontSize="Title" Padding="30,10,30,10" HorizontalOptions="Center"/>
+        <Label   Text="We try to create a faster way for individuals to warn NGOs about their needs. This way NGOs won't have to waste more resources to get in touch with people they want to help" FontSize="16" Padding="30,0,30,0"/>
+        <Label  FontSize="16" Padding="30,24,30,0" Text="Choose from which point of view do you want to contribute" />
+        <Button Text="Individual"
+                Clicked="Button_Clicked_1"/>
+        <Button Text="Organization"
+                Clicked="Button_Clicked"/>
+    </StackLayout>
+</ContentPage>
